@@ -1,0 +1,35 @@
+{
+    "guild": {
+        "ownerRole": "",
+        "id": "",
+        "tag": ""
+    },
+
+    "channel": {
+        "chatlog": "",
+        "inviteChannel": "",
+        "errorLogChannel": "",
+        "jailLog": "",
+        "muteLog": "",
+        "banLog": ""
+    },
+
+    "roles": {
+        "register": "",
+        "change": "",
+        "clown": "",
+        "guildbot": "",
+        "bots": "",
+        "cezali": "",
+        "supheli": "",
+        "erkekrol": "",
+        "kadinrol": "",
+        "vip": "",
+        "jail": "",
+        "booster": "",
+        "move": "",
+        "mute": "",
+        "punisher": "",
+        "muted": ""
+    }
+}

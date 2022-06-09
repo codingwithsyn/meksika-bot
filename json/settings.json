@@ -1,0 +1,23 @@
+{
+	"app": {
+      "token": "",
+      "prefix": "m!"
+	},
+  
+  "mongoose": {
+    "SqlConnection": "mongodb+srv://@meksika.6p80b.mongodb.net/?retryWrites=true&w=majority"
+  },
+
+  "author": {
+      "id": [
+        "473859818327638016"
+      ]
+  },
+
+	"Presence": {
+      "status": "dnd",
+      "name": "m!yardım - meksika-bot.xyz",
+      "type": "LISTENING",
+      "voiceChannel": ""
+	}
+}
