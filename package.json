@@ -1,0 +1,22 @@
+{
+    "name": "meksika",
+    "version": "0.0.1",
+    "description": "Her işlemi yapabileceğiniz Discord bot uygulaması.",
+    "main": "meksika.js",
+    "author": "syn",
+    "license": "MIT",
+    "scripts": {
+        "test": "node meksika.js"
+    },
+    "dependencies": {
+        "@discordjs/voice": "^0.9.0",
+        "ark.db": "^2.7.1",
+        "cors": "^2.8.5",
+        "discord.js": "^13.7.0",
+        "express": "^4.18.1",
+        "fs": "^0.0.1-security",
+        "moment": "^2.29.3",
+        "mongoose": "^6.3.4",
+        "util": "^0.12.4"
+    }
+}
