@@ -1,0 +1,11 @@
+body,
+html{
+	margin: 1vw;
+	background: white;
+}
+
+.logCh {
+	color: black;
+	box-shadow: 1px 1px grey;
+}
+
